@@ -1,15 +1,15 @@
 ![logo](https://github.com/JagrutiThakore/JagrutiThakore/blob/main/Profile%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jagruti Thakore</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagrutithakore&label=Profile%20views&color=0e75b6&style=flat" alt="jagrutithakore" /> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning ** Terraform and Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JagrutiThakore?tab=repositories](https://github.com/JagrutiThakore?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS, Relational Database**
+- 💬 Ask me about **SQL Databases, Data Analysis, Data Warehousing, Data Visualization, ETL**
 
 - 📫 How to reach me **jag.rajyaguru@gmail.com**
 
